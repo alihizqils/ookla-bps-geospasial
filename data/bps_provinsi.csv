@@ -1,0 +1,35 @@
+kode_prov,provinsi,pct_akses_internet,kepadatan_penduduk,pct_penduduk_miskin
+11,Aceh,52.99,92,14.75
+12,Sumatera Utara,65.68,205,8.33
+13,Sumatera Barat,63.13,133,6.04
+14,Riau,68.85,75,6.84
+15,Jambi,64.06,72,7.70
+16,Sumatera Selatan,62.57,93,11.95
+17,Bengkulu,63.14,102,14.34
+18,Lampung,65.21,262,11.44
+19,Kepulauan Bangka Belitung,68.70,90,4.61
+21,Kepulauan Riau,82.40,258,6.03
+31,DKI Jakarta,84.65,15978,4.61
+32,Jawa Barat,71.12,1379,7.98
+33,Jawa Tengah,67.73,1120,10.98
+34,DI Yogyakarta,75.38,1185,11.49
+35,Jawa Timur,64.28,855,10.49
+36,Banten,70.73,1248,6.24
+51,Bali,70.59,755,4.53
+52,Nusa Tenggara Barat,59.39,290,13.82
+53,Nusa Tenggara Timur,47.39,111,20.23
+61,Kalimantan Barat,62.08,37,6.81
+62,Kalimantan Tengah,65.79,18,5.22
+63,Kalimantan Selatan,70.26,106,4.61
+64,Kalimantan Timur,80.56,30,6.44
+65,Kalimantan Utara,77.43,9,6.86
+71,Sulawesi Utara,61.63,190,7.34
+72,Sulawesi Tengah,54.49,49,12.30
+73,Sulawesi Selatan,64.14,196,8.66
+74,Sulawesi Tenggara,61.88,70,11.27
+75,Gorontalo,60.31,105,15.51
+76,Sulawesi Barat,55.38,86,11.92
+81,Maluku,55.22,40,16.23
+82,Maluku Utara,50.20,41,6.37
+91,Papua Barat,58.27,11,21.43
+94,Papua,26.32,14,26.80
